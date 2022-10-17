@@ -63,7 +63,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>KaysDownTown</Logo>
+          <Logo>ESHOP</Logo>
         </Center>
         <Right>
           <MenuItem>REGISTER</MenuItem>

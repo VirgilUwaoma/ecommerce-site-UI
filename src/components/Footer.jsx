@@ -71,7 +71,7 @@ function Footer() {
   return (
     <Container>
       <Left>
-        <Logo>KDT.</Logo>
+        <Logo>ESHOP.</Logo>
         <Desc>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus
           perspiciatis vel aliquid corrupti quidem eos, labore tempora similique
